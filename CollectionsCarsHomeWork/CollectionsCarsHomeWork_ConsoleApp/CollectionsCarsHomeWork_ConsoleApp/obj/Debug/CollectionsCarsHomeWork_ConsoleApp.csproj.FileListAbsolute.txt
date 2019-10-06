@@ -1,0 +1,10 @@
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\CollectionsCarsHomeWork\CollectionsCarsHomeWork_ConsoleApp\CollectionsCarsHomeWork_ConsoleApp\bin\Debug\CollectionsCarsHomeWork_ConsoleApp.exe.config
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\CollectionsCarsHomeWork\CollectionsCarsHomeWork_ConsoleApp\CollectionsCarsHomeWork_ConsoleApp\bin\Debug\CollectionsCarsHomeWork_ConsoleApp.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\CollectionsCarsHomeWork\CollectionsCarsHomeWork_ConsoleApp\CollectionsCarsHomeWork_ConsoleApp\bin\Debug\CollectionsCarsHomeWork_ConsoleApp.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\CollectionsCarsHomeWork\CollectionsCarsHomeWork_ConsoleApp\CollectionsCarsHomeWork_ConsoleApp\bin\Debug\CollectionCars_ClassLibrary.dll
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\CollectionsCarsHomeWork\CollectionsCarsHomeWork_ConsoleApp\CollectionsCarsHomeWork_ConsoleApp\bin\Debug\CollectionCars_ClassLibrary.pdb
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\CollectionsCarsHomeWork\CollectionsCarsHomeWork_ConsoleApp\CollectionsCarsHomeWork_ConsoleApp\obj\Debug\CollectionsCarsHomeWork_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\CollectionsCarsHomeWork\CollectionsCarsHomeWork_ConsoleApp\CollectionsCarsHomeWork_ConsoleApp\obj\Debug\CollectionsCarsHomeWork_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\CollectionsCarsHomeWork\CollectionsCarsHomeWork_ConsoleApp\CollectionsCarsHomeWork_ConsoleApp\obj\Debug\CollectionsCarsHomeWork_ConsoleApp.csproj.CopyComplete
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\CollectionsCarsHomeWork\CollectionsCarsHomeWork_ConsoleApp\CollectionsCarsHomeWork_ConsoleApp\obj\Debug\CollectionsCarsHomeWork_ConsoleApp.exe
+C:\Users\LocalAdmin\Desktop\Курсы .Net-C#\CollectionsCarsHomeWork\CollectionsCarsHomeWork_ConsoleApp\CollectionsCarsHomeWork_ConsoleApp\obj\Debug\CollectionsCarsHomeWork_ConsoleApp.pdb
